@@ -16,7 +16,8 @@
     "mongodb": "^5.7.0",
     "mongoose": "^7.4.2",
     "morgan": "^1.10.0",
-    "nanoid": "^3.3.6"
+    "nanoid": "^3.3.6",
+    "node": "^18.14.0"
   },
   "devDependencies": {
     "eslint": "7.19.0",
@@ -25,6 +26,6 @@
     "eslint-plugin-import": "2.25.3",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "5.2.0",
-    "nodemon": "2.0.15"
-  }
+    "nodemon": "2.0.15"  
+  } 
 }
