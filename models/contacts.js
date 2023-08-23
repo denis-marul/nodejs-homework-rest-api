@@ -50,10 +50,12 @@ const updateContact = async (id, data) => {
   return contacts[index];
 }
 
+
 module.exports = {
   listContacts,
   getContactById,
   addContact,
   removeContact,
   updateContact,
+ 
 };
